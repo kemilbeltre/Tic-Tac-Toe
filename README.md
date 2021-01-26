@@ -1,3 +1,3 @@
 # README
 
----Tutorial soon
+---  desktop simpe app
